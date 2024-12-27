@@ -76,7 +76,7 @@ echo "# Steps to Run After Cloning the Repository
    npm run lint
    \`\`\`
    This will lint the codebase using ESLint and show any warnings or errors.
-" > 
+" > README.md
 
 
    
