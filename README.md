@@ -38,7 +38,7 @@ A modern, responsive portfolio website built with **React**, **Vite**, **Tailwin
 1. **Clone the Repository**:
    Clone the repository to your local machine:
    ```
-   git clone https://github.com/SubrataD27/#
+   git clone https://github.com/SubrataD27/Portfolio-Website-React-Vite-Tailwind.git
    cd portfolio-website
    ```
 
