@@ -33,50 +33,50 @@ A modern, responsive portfolio website built with **React**, **Vite**, **Tailwin
 
 ### Installation
 
-echo "# Steps to Run After Cloning the Repository
+# Steps to Run After Cloning the Repository
 
 1. **Clone the Repository**:
    Clone the repository to your local machine:
-   \`\`\`bash
-   git clone https://github.com/SubrataD27/portfolio-website.git
+   ```
+   git clone https://github.com/SubrataD27/#
    cd portfolio-website
-   \`\`\`
+   ```
 
 2. **Install Dependencies**:
    Run the following command to install all required dependencies:
-   \`\`\`bash
+   ```
    npm install
-   \`\`\`
+   ```
 
 3. **Start the Development Server**:
    Once dependencies are installed, start the development server:
-   \`\`\`bash
+   ```bash
    npm run dev
-   \`\`\`
+   ```
    This will start the development server. You can view the project by navigating to:
    - **URL**: [http://localhost:5173](http://localhost:5173)
 
 4. **Build for Production**:
    If you're ready to build the project for production, use the following command:
-   \`\`\`bash
+   ```bash
    npm run build
-   \`\`\`
+   ```
    This will generate an optimized production build in the \`dist/\` directory.
 
 5. **Preview the Production Build**:
    To preview the production build locally, use the command:
-   \`\`\`bash
+   ```bash
    npm run preview
-   \`\`\`
+   ```
    This will serve the production build locally, allowing you to test it before deploying.
 
 6. **Lint the Code**:
    To ensure your code follows the style guidelines, run:
-   \`\`\`bash
+   ```bash
    npm run lint
-   \`\`\`
+   ```
    This will lint the codebase using ESLint and show any warnings or errors.
-" > README.md
+
 
 
    
